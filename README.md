@@ -7,5 +7,5 @@ runtime environment for your project.
 
 2.	Adjust the variables as required.
 
-3.	Include the source/read of the environment file `java.env`
-	into your script.
+3.	Insert the sourcing/reading of the environment file `java.env`
+	that is created into your script.
