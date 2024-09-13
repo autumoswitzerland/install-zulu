@@ -9,3 +9,5 @@ runtime environment for your project.
 
 3.	Insert the sourcing/reading of the environment file `java.env`
 	that is created into your script.
+
+Under Windows, use PowerShell to execute the batch file.
